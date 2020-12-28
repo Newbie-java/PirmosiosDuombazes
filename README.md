@@ -1,5 +1,6 @@
 # PirmosiosDuombazes
 SQL failas:
+<p>
 sporto_klubai - Išvardinti sporto klubų pavadinimai/išvardintų sporto klubų adresai Kauno mieste/mėnesinis_ikainis/papildomos paslaugos
 treneriai - Išvardinti sporto klubų pavadinimai/treneriai dirbantys juose.
 JSP failas:
