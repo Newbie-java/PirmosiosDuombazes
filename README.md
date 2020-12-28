@@ -1,4 +1,17 @@
 # PirmosiosDuombazes
+	body {
+				font-family: arial black;
+				text-shadow: 4px 4px 4px  #cce6ff;
+				font-size: 12px;
+				color:white;
+				background-image: url(https://cdn.thespaces.com/wp-content/uploads/2020/01/Gymshark-hero-crop.jpg);
+				background-repeat: no-repeat;
+				background-size:cover;
+				background-attachment:fixed;
+				background-position:center;
+				background-color:black;
+			}
+			
 SQL failas:
 <p>
 sporto_klubai - Išvardinti sporto klubų pavadinimai/išvardintų sporto klubų adresai Kauno mieste/mėnesinis_ikainis/papildomos paslaugos
