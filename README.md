@@ -1,0 +1,2 @@
+# PirmosiosDuombazes
+Pirmieji SQL darbai
