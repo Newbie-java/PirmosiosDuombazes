@@ -1,5 +1,10 @@
 # PirmosiosDuombazes
-	body {
+<html>
+	<head>
+		<meta charset="utf-8">
+		<style>
+			
+			body {
 				font-family: arial black;
 				text-shadow: 4px 4px 4px  #cce6ff;
 				font-size: 12px;
@@ -11,6 +16,8 @@
 				background-position:center;
 				background-color:black;
 			}
+		</style>
+	</head>
 			
 SQL failas:
 <p>
